@@ -1,0 +1,33 @@
+.app{
+  text-align: center;
+}
+
+.app table{
+  width: 60%;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+.outlet{
+  margin-left: 7%;
+}
+.app table tr td{
+  padding: 20px;
+}
+
+.nav {
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  background-color: cadetblue;
+}
+
+.nav ul li{
+  float: left;
+  list-style-type: none;
+  color: white;
+  padding: 15px;
+}
+
+.nav ul li a{
+  cursor: pointer;
+}
